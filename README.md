@@ -1,4 +1,4 @@
-Hey there! I'm Maham Khan, a second-year Computer Science student passionate about coding and learning.
+Hey there! I'm Maham Khan, a third year Computer Science student passionate about coding and learning.
 
 Programming Skills:
 - Proficient in C and C++
